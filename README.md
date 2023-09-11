@@ -1,3 +1,4 @@
+
 # django_cheatsheet
 A practice project that shows how to create:
 1) an api in django
